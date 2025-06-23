@@ -2,13 +2,12 @@
 
 BuzzFuel is a modern, responsive, and visually appealing coffee shop website that highlights premium coffee products, promotes ethical sourcing, and offers a delightful user experience. It features interactive menus, a shopping cart, customer reviews, and more — built with HTML, CSS, and JavaScript.
 
-## 🌐 Live Preview
-
-> Coming Soon
-
 ## 📸 Preview
 
-![BuzzFuel Preview] 
+<img src="https://user-images.githubusercontent.com/90236635/178748916-430dc7cd-3239-4506-a90f-5bb575a46b60.png" >
+<img src="https://user-images.githubusercontent.com/90236635/178748931-dea8f6c8-e77e-421f-8925-e6f2acdfc7e7.png" >
+<img src="https://user-images.githubusercontent.com/90236635/178748928-963bbd72-9deb-4525-ba80-dac499006dec.png" >
+
 *A fresh and engaging design that brings the warmth of coffee to life.*
 
 ---
